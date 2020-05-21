@@ -1,0 +1,3 @@
+SystemOutput.main[args] => Output
+            console.WriteLine("Hello World!", /f)
+end
